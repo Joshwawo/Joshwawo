@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joshwawo
+- 👋 Hi, I’m @Joshwawo #0c0d0d n #f5cd03
 - 👀 I’m interested in books, art, i love programming 
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on ...
