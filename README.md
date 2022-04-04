@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshwawo #0c0d0d n #f5cd03
 - 👀 I’m interested in books, art, i love programming 
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
