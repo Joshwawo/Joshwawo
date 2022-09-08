@@ -6,7 +6,8 @@
 
 ###
 
-<p align="center">testo</p>
+- 👨‍💻 All of my projects are available at [https://portfolio-react-sandy.vercel.app/](https://portfolio-react-sandy.vercel.app/)
+
 
 ###
 
