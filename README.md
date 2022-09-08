@@ -6,7 +6,7 @@
 
 ###
 
-- <p align="center">👨‍💻 All of my projects are available at (https://portfolio-react-sandy.vercel.app/)</p>
+ <p align="center">👨‍💻 All of my projects are available at (https://portfolio-react-sandy.vercel.app/)</p>
 
 
 ###
