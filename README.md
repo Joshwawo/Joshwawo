@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=joshwawo" height="150" alt="languages graph"  />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshwawo&theme=darcula&hide_border=true" height="150" alt="streak app" >
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshwawo&theme=dark&border_radius=1&border_color=010107" height="150" alt="whakatime me" >
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshwawo&theme=dark&border_radius=1&border_color=010107" height="150" width="250" alt="whakatime me" >
 
 </div>
  
