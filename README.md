@@ -6,7 +6,7 @@
 
 ###
 
- <p align="center">👨‍💻 All of my projects are available at <a target="_blank" href="https://jorgemorales.vercel.app/"></a></p>
+ <p align="center">👨‍💻 All of my projects are available at <a target="_blank" href="https://jorgemorales.vercel.app/">Portfolio</a></p>
 
 
 ###
