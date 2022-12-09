@@ -16,8 +16,13 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshwawo&theme=darcula&hide_border=true" height="150" alt="streak app" >
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshwawo&theme=dark&border_radius=1&border_color=010107" height="200"  alt="whakatime me" >
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshwawo&theme=dark&border_radius=1&border_color=010107" height="300"   alt="whakatime me" >
+ <img src="https://lanyard-profile-readme.vercel.app/api/384942141169860628?hideStatus=true&animated=true&hideDiscrim=false" height="200"  alt="whakatime me" >
+
 </div>
+
+
+
  
 
 
